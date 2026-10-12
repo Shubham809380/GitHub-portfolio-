@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Shubham Patra
 **An Aspiring Data Scientist || Generative AI Intern || CSE Student from India**
 
-Email Me 👉 ✉️ **patrashubham031@gmail.com** for Collaboration / Internships / Projects 😊
+Email Me 👉 ✉️ **YOUR-EMAIL@gmail.com** for Collaboration / Internships / Projects 😊
 
 
 
@@ -15,7 +15,6 @@ Email Me 👉 ✉️ **patrashubham031@gmail.com** for Collaboration / Internshi
 - 💼 **Looking for:** Data Science / AI-ML internships and entry-level roles
 - 💬 **Ask me about:** Python, Data Analysis, Web Development, Generative AI
 - 🌐 **Portfolio:** [shubhampatra.vercel.app](https://shubhampatra.vercel.app/)
-- 📫 **How to reach me:** patrashubham031@gmail.com
 - ⚡ **Fun fact:** I learn by building, one project at a time
 
 ---
@@ -180,7 +179,7 @@ Email Me 👉 ✉️ **patrashubham031@gmail.com** for Collaboration / Internshi
 
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
-](mailto:patrashubham031@gmail.com) [
+](mailto:YOUR-EMAIL@gmail.com) [
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
