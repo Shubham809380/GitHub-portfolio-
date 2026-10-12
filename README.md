@@ -1,55 +1,49 @@
-# Hi, I'm Shubham Patra 👋
+<p align="center">
+  <img src="assets/header.svg" alt="Shubham Patra - Aspiring Data Scientist" width="100%" />
+</p>
 
-**Aspiring Data Scientist · Generative AI Intern · CSE Student**
+<p align="center">
+  <a href="mailto:patrashubham031@gmail.com"><img src="https://img.shields.io/badge/Email-patrashubham031%40gmail.com-0B1020?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B1020&color=1E293B" /></a>
+  <a href="https://shubhampatra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0B1020?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0B1020&color=1E293B" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B1020&color=1E293B" /></a>
+</p>
 
-I build AI-powered applications and deploy them end to end. Currently interning at **Quillance Infotech** (Generative AI), and looking for **Data Science / AI-ML internships and entry-level roles**.
+<br/>
 
-📧 patrashubham031@gmail.com · 🌐 [Portfolio](https://shubhampatra.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+## 👋 About
 
----
+Computer Science Engineering student building a career in **Data Science and AI/ML**. I work as a **Generative AI Intern at Quillance Infotech**, where I build AI-powered applications, and I deploy my projects end to end. I'm looking for **internships and entry-level roles** in Data Science and AI/ML.
 
-## 🚀 Featured Projects
-
-### [SwasthyaFlow AI](https://swasthyatriage-ai-azure.vercel.app/)
-Multimodal healthcare triage assistant that helps health workers organize patient information and prepare structured triage notes.
-`Healthcare AI` `Multimodal AI`
-
-### [SwachhLens](https://swachhlens-ruddy.vercel.app/)
-AI-powered waste reporting and classification platform for smarter waste management.
-`AI` `Classification` `PWA`
-
-### [AI Interview Practice](https://ai-interview-practice-platform.vercel.app/)
-Web application for interview practice and preparation.
-`AI Applications` `Web Development`
-
-### [LunarRegX](https://github.com/Myparadox-creator/LunarRegX)
-Hackathon project built for a lunar registration problem statement.
-`Space Tech` `Web Application`
-
----
+<br/>
 
 ## 🛠️ Skills
 
-| | |
-|---|---|
-| **Languages** | Python, SQL, JavaScript |
-| **Data** | Pandas, NumPy, data analysis |
-| **Web & Databases** | React, Node.js, Express, MongoDB, MySQL |
-| **Tools & Cloud** | Git, GitHub, Docker, Google Cloud |
+<p align="center">
+  <img src="assets/skills.svg" alt="Skills" width="100%" />
+</p>
 
-**Currently learning:** Machine Learning · LLMs & RAG · AI Agents · MLOps
+<br/>
 
----
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://swasthyatriage-ai-azure.vercel.app/"><img src="assets/p1.svg" alt="SwasthyaFlow AI" width="49%" /></a>
+  <a href="https://swachhlens-ruddy.vercel.app/"><img src="assets/p2.svg" alt="SwachhLens" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://ai-interview-practice-platform.vercel.app/"><img src="assets/p3.svg" alt="AI Interview Practice" width="49%" /></a>
+  <a href="https://github.com/Myparadox-creator/LunarRegX"><img src="assets/p4.svg" alt="LunarRegX" width="49%" /></a>
+</p>
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Shubham809380&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham809380&layout=compact&hide_border=true" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubham809380&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&ring_color=22D3EE" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham809380&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" />
 </p>
 
----
+<br/>
 
-## 🤝 Let's Connect
-
-Open to internships, collaboration and open-source work. The best way to reach me is by email or LinkedIn.
+<p align="center"><i>Build with curiosity. Learn with consistency. Create with purpose.</i></p>
